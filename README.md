@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-Great to meet you. 😊
+Great to meet you!
 
 I'm Chris, a senior at UC Berkeley wrapping up degrees in Computer Science and Biochemistry. Broadly, I want to help others live longer, happier lives. At the moment, I'm interested in startups and tech as applied to healthcare and biology.
 
