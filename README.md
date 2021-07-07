@@ -13,7 +13,7 @@ I'm Chris, a senior at UC Berkeley wrapping up degrees in Computer Science and B
 - Learning guitar (very slowly).
 
 ### 💬  Let's connect!
-I'm currently located in NYC! Feel free to reach me at cwzou@berkeley.edu. Otherwise, here are my socials:
+Feel free to reach me at cwzou@berkeley.edu. Otherwise, here are my socials:
 
 <p float="left">
   <a href="https://chriswzou.github.io">
