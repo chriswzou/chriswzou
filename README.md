@@ -9,7 +9,7 @@ I'm Chris, a senior at UC Berkeley wrapping up degrees in Computer Science and B
 - **Founding UC Berkeley's healthcare startup accelerator** with friends at [Phoenix Consulting Group](https://phoenix.berkeley.edu).
 
 ### 🌱  What else I'm doing ...
-- Reading _Madam Speaker: Nancy Pelosi and the Lessons of Power_.
+- Reading _Steve Jobs_.
 - Learning guitar (very slowly).
 
 ### 💬  Let's connect!
