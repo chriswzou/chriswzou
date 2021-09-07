@@ -5,7 +5,7 @@ Great to meet you!
 I'm Chris, a senior at UC Berkeley wrapping up degrees in Computer Science and Biochemistry. Broadly, I want to help others live longer, happier lives. At the moment, I'm interested in startups and tech as applied to healthcare and biology.
 
 ### ⚡  Currently working on ...
-- **Software engineering** at [Datavant](http://datavant.com/), a healthcare interoperability startup.
+- **Software engineering** at LinkedIn.
 - **Founding UC Berkeley's healthcare startup accelerator** with friends at [Phoenix Consulting Group](https://phoenix.berkeley.edu).
 
 ### 🌱  What else I'm doing ...
