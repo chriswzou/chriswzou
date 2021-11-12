@@ -6,7 +6,7 @@ I'm Chris, a senior at UC Berkeley wrapping up degrees in Computer Science and B
 
 ### ⚡  Currently working on ...
 - **Software engineering** at LinkedIn.
-- **Founding UC Berkeley's healthcare startup accelerator** with friends at [Phoenix Consulting Group](https://phoenix.berkeley.edu).
+- **Building [Health Engine](https://readysethealth.io) UC Berkeley's healthcare startup accelerator** with friends at [Phoenix Consulting Group](https://phoenix.berkeley.edu).
 
 ### 🌱  What else I'm doing ...
 - Reading _The Art of Doing Science and Engineering_ and _The Midnight Library_
