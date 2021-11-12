@@ -9,7 +9,7 @@ I'm Chris, a senior at UC Berkeley wrapping up degrees in Computer Science and B
 - **Founding UC Berkeley's healthcare startup accelerator** with friends at [Phoenix Consulting Group](https://phoenix.berkeley.edu).
 
 ### 🌱  What else I'm doing ...
-- Reading _Eat a Peach_ by David Chang.
+- Reading _The Art of Doing Science and Engineering_ and _The Midnight Library_
 - Learning guitar (very slowly).
 
 ### 💬  Let's connect!
