@@ -2,14 +2,14 @@
 
 Great to meet you!
 
-I'm Chris, a senior at UC Berkeley wrapping up degrees in Computer Science and Biochemistry. Broadly, I want to help others live longer, happier lives. At the moment, I'm interested in startups and tech as applied to healthcare and biology.
+I'm Chris, a senior at UC Berkeley wrapping up degrees in Computer Science and Biochemistry. Broadly, I want to help others live longer, happier lives. More specifically, I'm interested in startups and tech as applied to healthcare and biology.
 
 ### ⚡  Currently working on ...
-- **Software engineering** at LinkedIn.
 - **Building [Health Engine](https://readysethealth.io), UC Berkeley's healthcare startup accelerator,** with friends at [Phoenix Consulting Group](https://phoenix.berkeley.edu).
+- I will also be a KP Fellow and intern at Nuna this coming summer.
 
 ### 🌱  What else I'm doing ...
-- Reading _The Art of Doing Science and Engineering_ and _The Midnight Library_
+- Taking a break from reading, which is weird.
 - Learning guitar (very slowly).
 
 ### 💬  Let's connect!
