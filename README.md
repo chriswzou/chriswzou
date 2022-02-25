@@ -6,7 +6,7 @@ I'm Chris, a senior at UC Berkeley wrapping up degrees in Computer Science and B
 
 ### ⚡  Currently working on ...
 - **Building [Health Engine](https://readysethealth.io), UC Berkeley's healthcare startup accelerator,** with friends at [Phoenix Consulting Group](https://phoenix.berkeley.edu).
-- I will also be a KP Fellow and intern at Nuna this coming summer.
+- I'll be an intern at Nuna this coming summer.
 
 ### 🌱  What else I'm doing ...
 - Taking a break from reading, which is weird.
