@@ -1,17 +1,15 @@
-## Hey
-
-Great to meet you!
+## Hey, great to meet you!
 
 I'm Chris, a software engineer at Datavant. Broadly, I want to help others live longer, happier lives. More specifically, I'm interested in startups and tech as applied to healthcare and biology.
 
-### ⚡  Currently working on ...
+### Currently working on ...
 - Computational biology projects at UCSF
 - Building at Datavant
 
-### 🌱  What else I'm doing ...
+### What else I'm doing ...
 - Learning guitar (very slowly).
 
-### 💬  Let's connect!
+### Let's connect!
 Feel free to reach me at cwzou@berkeley.edu. Otherwise, here are my socials:
 
 <p float="left">
