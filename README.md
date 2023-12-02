@@ -1,6 +1,6 @@
 ## Hey, great to meet you!
 
-I'm Chris, a software engineer at Datavant. Broadly, I want to help others live longer, happier lives. More specifically, I'm interested in startups and tech as applied to healthcare and biology.
+I'm Chris, a software engineer at Datavant. Broadly, I want to help others live longer, happier lives. More specifically, I'm interested in building better tools to accelerate biological discovery.
 
 I'm currently working on functional genomics projects at UCSF while a software engineer at Datavant.
 
